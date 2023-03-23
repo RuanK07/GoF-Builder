@@ -1,7 +1,7 @@
 # GoF-Builder
 Studying the theory and implementation of Design Patterns
 
-## Sobre o projeto
+## Sobre o Pattern
 
 O Builder é um padrão de projeto de criação que separa a construção de um objeto complexo da sua representação,
 permitindo que o código cliente seja desacoplado do processo de construção. 
